@@ -1,3 +1,4 @@
 print("halo nama saya ozan") 
 print ("saya ingin  makan ayam")
 print ("hai")
+print ("halo dunia")
