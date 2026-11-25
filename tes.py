@@ -3,3 +3,6 @@ print ("saya ingin  makan ayam")
 print ("hai")
 print ("halo dunia")
 print ("aku ozan")
+
+i = 5;
+print (i)
