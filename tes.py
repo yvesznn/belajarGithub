@@ -1,4 +1,3 @@
-print("halo nama saya ozan")
-print ("saya mau makan nasi")
+print("halo nama saya ozan") 
 print ("saya ingin  makan ayam")
 print ("hai")
